@@ -8,7 +8,7 @@ A sophisticated Flutter grocery list application with Firebase backend integrati
   
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="screenshots/Screenshot_20251118_213007[1].jpg" width="100%" alt="Groceries List"/> **Groceries List** | <img src="screenshots/Screenshot_20251118_213018[1].jpg" width="100%" alt="Add Item"/> **Add New Item** | |
+| <img src="screenshots/Screenshot_20251118_213007.jpg" width="100%" alt="Groceries List"/> **Groceries List** | <img src="screenshots/Screenshot_20251118_213018.jpg" width="100%" alt="Add Item"/> **Add New Item** | |
 
 </div>
 
